@@ -1,0 +1,3 @@
+[submodule "SCHOOLRUN"]
+	path = SCHOOLRUN
+	url = git@github.com:pecuchetian/school-run

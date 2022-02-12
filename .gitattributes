@@ -1,0 +1,2 @@
+SCHOOLRUN/*.csv filter=git-crypt diff=git-crypt
+SCHOOL/*.xlsx filter=git-crypt diff=git-crypt
